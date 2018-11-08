@@ -22,7 +22,7 @@ gke-cluster:
     paths:
       - .kube/
 
-## Setup OpenEBS control plane
+# Setup OpenEBS control plane
 
 openebs-gke-deploy:
   image: atulabhi/kops:v9
